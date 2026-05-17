@@ -1,0 +1,416 @@
+{
+  "compound-x9": {
+    "compound_id": "CPD-X9-VEGFR",
+    "target_protein": "VEGFR (Vascular Endothelial Growth Factor Receptor)",
+    "clinical_phase": 3,
+    "indication": "Metastatic Renal Cell Carcinoma",
+    "efficacy_rate": "68%",
+    "adverse_events": [
+      "Hypertension",
+      "Fatigue",
+      "Liver Toxicity",
+      "Proteinuria"
+    ],
+    "recommended_monitoring": [
+      "Weekly blood pressure checks",
+      "Bi-weekly liver function tests (ALT/AST)",
+      "Urinalysis every cycle"
+    ]
+  },
+  "compound-b4": {
+    "compound_id": "CPD-B4-HER2",
+    "target_protein": "HER2 (Human Epidermal Growth Factor Receptor 2)",
+    "clinical_phase": 2,
+    "indication": "HER2-Positive Refractory Gastric Cancer",
+    "efficacy_rate": "42%",
+    "adverse_events": [
+      "Left Ventricular Ejection Fraction (LVEF) decrease",
+      "Alopecia",
+      "Anemia",
+      "Infusion-related reactions"
+    ],
+    "recommended_monitoring": [
+      "Echocardiogram or MUGA scan at baseline and every 6 weeks",
+      "Hemoglobin tracking",
+      "Pre-medication with antihistamines"
+    ]
+  },
+  "compound-a1": {
+    "compound_id": "CPD-A1-EGFR",
+    "target_protein": "EGFR (Epidermal Growth Factor Receptor)",
+    "clinical_phase": 2,
+    "indication": "Non-Small Cell Lung Cancer",
+    "efficacy_rate": "61%",
+    "adverse_events": [
+      "Skin Rash",
+      "Diarrhea",
+      "Dry Skin",
+      "Mucositis"
+    ],
+    "recommended_monitoring": [
+      "Dermatological evaluations",
+      "Liver function tests",
+      "Hydration monitoring"
+    ]
+  },
+  "compound-a2": {
+    "compound_id": "CPD-A2-ALK",
+    "target_protein": "ALK Fusion Protein",
+    "clinical_phase": 3,
+    "indication": "ALK-Positive Lung Adenocarcinoma",
+    "efficacy_rate": "73%",
+    "adverse_events": [
+      "Bradycardia",
+      "Visual disturbances",
+      "Peripheral edema",
+      "Constipation"
+    ],
+    "recommended_monitoring": [
+      "Cardiac rhythm monitoring",
+      "Vision assessments",
+      "Weight tracking"
+    ]
+  },
+  "compound-a3": {
+    "compound_id": "CPD-A3-PD1",
+    "target_protein": "PD-1 Immune Checkpoint",
+    "clinical_phase": 4,
+    "indication": "Advanced Melanoma",
+    "efficacy_rate": "64%",
+    "adverse_events": [
+      "Immune-mediated hepatitis",
+      "Colitis",
+      "Hypothyroidism",
+      "Fatigue"
+    ],
+    "recommended_monitoring": [
+      "Thyroid profile testing",
+      "Liver enzyme monitoring",
+      "Immune toxicity screening"
+    ]
+  },
+  "compound-a4": {
+    "compound_id": "CPD-A4-BRAF",
+    "target_protein": "BRAF V600E Mutation",
+    "clinical_phase": 3,
+    "indication": "Metastatic Melanoma",
+    "efficacy_rate": "71%",
+    "adverse_events": [
+      "Photosensitivity",
+      "Arthralgia",
+      "Pyrexia",
+      "Fatigue"
+    ],
+    "recommended_monitoring": [
+      "Skin examinations",
+      "Temperature monitoring",
+      "Joint inflammation assessments"
+    ]
+  },
+  "compound-b1": {
+    "compound_id": "CPD-B1-HER3",
+    "target_protein": "HER3 Receptor",
+    "clinical_phase": 1,
+    "indication": "Refractory Breast Cancer",
+    "efficacy_rate": "34%",
+    "adverse_events": [
+      "Infusion reactions",
+      "Neutropenia",
+      "Anemia",
+      "Vomiting"
+    ],
+    "recommended_monitoring": [
+      "CBC analysis",
+      "Infusion observation",
+      "Hydration status review"
+    ]
+  },
+  "compound-b2": {
+    "compound_id": "CPD-B2-MEK",
+    "target_protein": "MEK1/2",
+    "clinical_phase": 2,
+    "indication": "Metastatic Colorectal Cancer",
+    "efficacy_rate": "49%",
+    "adverse_events": [
+      "Blurred vision",
+      "Hypertension",
+      "Acneiform dermatitis",
+      "Peripheral neuropathy"
+    ],
+    "recommended_monitoring": [
+      "Blood pressure checks",
+      "Eye examinations",
+      "Neurological evaluation"
+    ]
+  },
+  "compound-b3": {
+    "compound_id": "CPD-B3-CD20",
+    "target_protein": "CD20 Surface Antigen",
+    "clinical_phase": 4,
+    "indication": "Diffuse Large B-Cell Lymphoma",
+    "efficacy_rate": "78%",
+    "adverse_events": [
+      "Cytokine release syndrome",
+      "Fever",
+      "Hypotension",
+      "Infections"
+    ],
+    "recommended_monitoring": [
+      "Vital signs every infusion",
+      "Infection surveillance",
+      "CBC tracking"
+    ]
+  },
+  "compound-c1": {
+    "compound_id": "CPD-C1-JAK2",
+    "target_protein": "JAK2 Kinase",
+    "clinical_phase": 3,
+    "indication": "Myelofibrosis",
+    "efficacy_rate": "58%",
+    "adverse_events": [
+      "Thrombocytopenia",
+      "Dizziness",
+      "Bruising",
+      "Anemia"
+    ],
+    "recommended_monitoring": [
+      "Platelet counts",
+      "Neurological symptom review",
+      "CBC every 2 weeks"
+    ]
+  },
+  "compound-c2": {
+    "compound_id": "CPD-C2-PARP",
+    "target_protein": "PARP Enzyme",
+    "clinical_phase": 4,
+    "indication": "Ovarian Cancer",
+    "efficacy_rate": "67%",
+    "adverse_events": [
+      "Nausea",
+      "Myelosuppression",
+      "Fatigue",
+      "Anorexia"
+    ],
+    "recommended_monitoring": [
+      "CBC monitoring",
+      "Nutritional evaluation",
+      "Renal profile assessment"
+    ]
+  },
+  "compound-c3": {
+    "compound_id": "CPD-C3-BTK",
+    "target_protein": "Bruton's Tyrosine Kinase",
+    "clinical_phase": 3,
+    "indication": "Mantle Cell Lymphoma",
+    "efficacy_rate": "74%",
+    "adverse_events": [
+      "Atrial fibrillation",
+      "Bleeding",
+      "Fatigue",
+      "Neutropenia"
+    ],
+    "recommended_monitoring": [
+      "ECG analysis",
+      "Coagulation profile",
+      "CBC evaluation"
+    ]
+  },
+  "compound-c4": {
+    "compound_id": "CPD-C4-FGFR",
+    "target_protein": "FGFR2 Mutation",
+    "clinical_phase": 2,
+    "indication": "Cholangiocarcinoma",
+    "efficacy_rate": "52%",
+    "adverse_events": [
+      "Hyperphosphatemia",
+      "Dry mouth",
+      "Nail toxicity",
+      "Eye disorders"
+    ],
+    "recommended_monitoring": [
+      "Serum phosphate monitoring",
+      "Ophthalmic assessments",
+      "Electrolyte checks"
+    ]
+  },
+  "compound-d1": {
+    "compound_id": "CPD-D1-MTOR",
+    "target_protein": "mTOR Pathway",
+    "clinical_phase": 4,
+    "indication": "Pancreatic Neuroendocrine Tumors",
+    "efficacy_rate": "63%",
+    "adverse_events": [
+      "Hyperglycemia",
+      "Mouth ulcers",
+      "Fatigue",
+      "Pneumonitis"
+    ],
+    "recommended_monitoring": [
+      "Blood glucose monitoring",
+      "Respiratory evaluation",
+      "Oral examinations"
+    ]
+  },
+  "compound-d2": {
+    "compound_id": "CPD-D2-CTLA4",
+    "target_protein": "CTLA-4 Immune Checkpoint",
+    "clinical_phase": 3,
+    "indication": "Metastatic Melanoma",
+    "efficacy_rate": "59%",
+    "adverse_events": [
+      "Autoimmune colitis",
+      "Hepatitis",
+      "Rash",
+      "Endocrinopathies"
+    ],
+    "recommended_monitoring": [
+      "GI symptom assessment",
+      "Liver panel testing",
+      "Hormonal profile checks"
+    ]
+  },
+  "compound-d3": {
+    "compound_id": "CPD-D3-RET",
+    "target_protein": "RET Fusion Protein",
+    "clinical_phase": 2,
+    "indication": "RET-Positive Thyroid Cancer",
+    "efficacy_rate": "69%",
+    "adverse_events": [
+      "QT prolongation",
+      "Hypertension",
+      "Diarrhea",
+      "Fatigue"
+    ],
+    "recommended_monitoring": [
+      "ECG screening",
+      "Electrolyte evaluation",
+      "Blood pressure checks"
+    ]
+  },
+  "compound-e1": {
+    "compound_id": "CPD-E1-KRAS",
+    "target_protein": "KRAS G12C Mutation",
+    "clinical_phase": 3,
+    "indication": "Advanced Lung Adenocarcinoma",
+    "efficacy_rate": "57%",
+    "adverse_events": [
+      "Nausea",
+      "Elevated liver enzymes",
+      "Fatigue",
+      "Diarrhea"
+    ],
+    "recommended_monitoring": [
+      "Liver function tests",
+      "GI symptom review",
+      "Electrolyte tracking"
+    ]
+  },
+  "compound-e2": {
+    "compound_id": "CPD-E2-CDK46",
+    "target_protein": "CDK4/6",
+    "clinical_phase": 4,
+    "indication": "HR-Positive Breast Cancer",
+    "efficacy_rate": "76%",
+    "adverse_events": [
+      "Neutropenia",
+      "QT prolongation",
+      "Hair thinning",
+      "Fatigue"
+    ],
+    "recommended_monitoring": [
+      "CBC every cycle",
+      "Cardiac monitoring",
+      "Hair and scalp assessment"
+    ]
+  },
+  "compound-e3": {
+    "compound_id": "CPD-E3-PI3K",
+    "target_protein": "PI3K Alpha",
+    "clinical_phase": 2,
+    "indication": "PIK3CA-Mutated Breast Cancer",
+    "efficacy_rate": "54%",
+    "adverse_events": [
+      "Hyperglycemia",
+      "Rash",
+      "Diarrhea",
+      "Weight loss"
+    ],
+    "recommended_monitoring": [
+      "Blood glucose checks",
+      "Body weight tracking",
+      "Dermatology review"
+    ]
+  },
+  "compound-f1": {
+    "compound_id": "CPD-F1-MET",
+    "target_protein": "MET Exon 14 Skipping Mutation",
+    "clinical_phase": 2,
+    "indication": "Metastatic Non-Small Cell Lung Cancer",
+    "efficacy_rate": "66%",
+    "adverse_events": [
+      "Peripheral edema",
+      "Hypoalbuminemia",
+      "Dyspnea",
+      "Nausea"
+    ],
+    "recommended_monitoring": [
+      "Albumin levels",
+      "Pulmonary assessment",
+      "Fluid retention evaluation"
+    ]
+  },
+  "compound-f2": {
+    "compound_id": "CPD-F2-IDH1",
+    "target_protein": "IDH1 Mutation",
+    "clinical_phase": 3,
+    "indication": "Acute Myeloid Leukemia",
+    "efficacy_rate": "62%",
+    "adverse_events": [
+      "Differentiation syndrome",
+      "Leukocytosis",
+      "Fatigue",
+      "QT prolongation"
+    ],
+    "recommended_monitoring": [
+      "WBC counts",
+      "ECG tracking",
+      "Respiratory status review"
+    ]
+  },
+  "imatinib": {
+    "compound_id": "STI-571",
+    "target_protein": "BCR-ABL Tyrosine Kinase",
+    "clinical_phase": 4,
+    "indication": "Chronic Myelogenous Leukemia (CML)",
+    "efficacy_rate": "89%",
+    "adverse_events": [
+      "Fluid retention",
+      "Superficial edema",
+      "Muscle cramps",
+      "Neutropenia"
+    ],
+    "recommended_monitoring": [
+      "Complete Blood Count (CBC) weekly for the first month",
+      "Weight monitoring for fluid retention tracking",
+      "Renal panel updates"
+    ]
+  },
+  "pazopanib": {
+    "compound_id": "GSK-1838392",
+    "target_protein": "Tyrosine Kinase (VEGFR-1/2/3, PDGFR-A/B, c-Kit)",
+    "clinical_phase": 4,
+    "indication": "Advanced Renal Cell Carcinoma & Soft Tissue Sarcoma",
+    "efficacy_rate": "55%",
+    "adverse_events": [
+      "Diarrhea",
+      "Hair color changes",
+      "Nausea",
+      "QT Prolongation"
+    ],
+    "recommended_monitoring": [
+      "Baseline and periodic Electrocardiograms (ECGs)",
+      "Electrolyte monitoring (calcium, magnesium, potassium)",
+      "Hepatic enzyme tracking"
+    ]
+  }
+}
