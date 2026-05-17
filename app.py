@@ -190,7 +190,11 @@ load_dotenv()
 
 st.set_page_config(page_title="Clinical Compound Analyzer", layout="wide")
 st.title("Clinical Compound Analyzer")
-
+st.markdown(
+    """
+    Core Stack: Gemini 2.5 Flash | AWS Strands Agent Framework | FastMCP Protocol Architecture | Streamlit UI
+    """
+)
 # 1. Sidebar Panel: Extract and display inventory of compounds from database
 DB_FILE_PATH = os.path.join(os.path.dirname(__file__), "clinical_db.json")
 available_compounds = []
